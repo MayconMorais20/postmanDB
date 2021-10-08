@@ -2,8 +2,8 @@
 connect database Api to make asserts on Postamna
 
 > **Requirements:** 
-> ```
-> python python 3.9+ 
+> ```python 
+> python 3.9+ 
 > pip 21.2.4
 > pip install -r /path/to/requirements.txt
 
