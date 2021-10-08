@@ -1,7 +1,7 @@
 # postmanDB
 connect database Api to make asserts on Postamna
 
-Format: !Postman Logo](https://miro.medium.com/max/1024/1*fVBL9mtLJmHIH6YpU7WvHQ.png)
+![Postman Logo](https://miro.medium.com/max/1024/1*fVBL9mtLJmHIH6YpU7WvHQ.png =100x100)
 
 > **Requirements:** 
 > ```
