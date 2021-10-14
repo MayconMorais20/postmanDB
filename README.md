@@ -1,5 +1,5 @@
 # postmanDB
-connect database Api to make asserts on Postamna
+connect database Api to make asserts on Postaman
 
 > **Requirements:** 
 > ```python 
