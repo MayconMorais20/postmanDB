@@ -1,9 +1,8 @@
-# PostmanDB database connect #
-## _Run queries using request_ ##
+# PostmanDB database connect
+**_Run queries using requests_**
+**Installation**
 
-## Installation
-
-**_PostamanDB_** requires [Python 3](https://www.python.org/downloads/)  to run.
+**PostamanDB** requires [Python 3](https://www.python.org/downloads/)  to run.
 
 Install the dependencies and start the server.
 
