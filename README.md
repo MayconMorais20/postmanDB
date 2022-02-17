@@ -1,9 +1,9 @@
 # PostmanDB database connect
 ## _Run queries using request_
 
-[//]: # [![N|Solid](https://assets.getpostman.com/common-share/postman-api-platform-social-preview-2.jpg)](https://www.postman.com)
+[//]: #[![N|Solid](https://assets.getpostman.com/common-share/postman-api-platform-social-preview-2.jpg)](https://www.postman.com)
 
-[//]: # [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[//]: #[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Installation
 
