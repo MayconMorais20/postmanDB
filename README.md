@@ -3,17 +3,20 @@
 
 **Installation**
 
-**PostamanDB** requires [Python 3](https://www.python.org/downloads/)  to run.
+##### **PostamanDB** requires [Python 3](https://www.python.org/downloads/)  to run.
 
-Install the dependencies and start the server.
+Install dependencies
 
 ```sh
 cd postmanDB
 pip install -r requirements
-uvicorn main:app --reload
 ```
 > Note: `add to path Python +3.10`
 
+**Start the server**
+```sh
+uvicorn main:app --reload
+```
 Verify the deployment by navigating to your server address in
 your preferred browser.
 
